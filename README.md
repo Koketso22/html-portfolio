@@ -1,2 +1,1 @@
-# html-portfolio
-html only website
+https://koketso22.github.io/html-portfolio/
